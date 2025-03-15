@@ -3,11 +3,35 @@
 
 
 # ⭐Run Project in your Machine
-* You must have Python3.8 installed in your machine.
-Create a Python Virtual Environment & Activate Virtual Environment Link
-Install all the dependencies using below command pip install -r requirements.txt
-Go to the Flask Deployed App folder.
-Download the pre-trained model file plant_disease_model_1.pt from here
-Add the downloaded file in Flask Deployed App folder.
-Run the Flask app using below command python3 app.py
-You can also use downloaded file in Model Section and play with it using Jupyter Notebook.
+
+To run this project on your machine, follow these steps:
+
+1.  **Install Python 3.8:**
+    * Ensure Python 3.8 is installed on your system.
+
+2.  **Create and Activate a Virtual Environment:**
+    * [Link to Virtual Environment Instructions](YourVirtualEnvironmentLinkHere)
+
+3.  **Install Dependencies:**
+    * Run the following command in your terminal:
+        ```bash
+        pip install -r requirements.txt
+        ```
+
+4.  **Navigate to the Flask App Folder:**
+    * Change your current directory to the "Flask Deployed App" folder.
+
+5.  **Download the Pre-trained Model:**
+    * Download the `plant_disease_model_1.pt` file from [Download Link Here](YourDownloadLinkHere).
+
+6.  **Place the Model File:**
+    * Move the downloaded `plant_disease_model_1.pt` file into the "Flask Deployed App" folder.
+
+7.  **Run the Flask App:**
+    * Execute the following command:
+        ```bash
+        python3 app.py
+        ```
+
+8.  **Optional: Use the Model with Jupyter Notebook:**
+    * You can also use the downloaded model file within the "Model Section" and experiment with it using Jupyter Notebook.
