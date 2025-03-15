@@ -10,7 +10,7 @@ To run this project on your machine, follow these steps:
     * Ensure Python 3.8 is installed on your system.
 
 2.  **Create and Activate a Virtual Environment:**
-    * [Link to Virtual Environment Instructions](YourVirtualEnvironmentLinkHere)
+    * [Link to Virtual Environment Instructions](https://docs.python.org/3/tutorial/venv.html)
 
 3.  **Install Dependencies:**
     * Run the following command in your terminal:
