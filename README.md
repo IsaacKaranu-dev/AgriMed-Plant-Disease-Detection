@@ -8,7 +8,7 @@ To run this project on your machine, follow these steps:
 
 1.  **Install Python 3.8:**
     * Ensure Python 3.8 is installed on your system.
-    * [Python 3.8.18 Release]https://www.python.org/downloads/release/python-3818/
+    * [Python 3.8.18 Release](https://www.python.org/downloads/release/python-3818/)
 
 2.  **Create and Activate a Virtual Environment:**
     * [Link to Virtual Environment Instructions](https://docs.python.org/3/tutorial/venv.html)
