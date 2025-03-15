@@ -22,7 +22,7 @@ To run this project on your machine, follow these steps:
     * Change your current directory to the "Flask Deployed App" folder.
 
 5.  **Download the Pre-trained Model:**
-    * Download the `plant_disease_model_1.pt` file from [Download Link Here](YourDownloadLinkHere).
+    * Download the `plant_disease_model_1.pt` file from [Download Link Here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link).
 
 6.  **Place the Model File:**
     * Move the downloaded `plant_disease_model_1.pt` file into the "Flask Deployed App" folder.
@@ -32,6 +32,3 @@ To run this project on your machine, follow these steps:
         ```bash
         python3 app.py
         ```
-
-8.  **Optional: Use the Model with Jupyter Notebook:**
-    * You can also use the downloaded model file within the "Model Section" and experiment with it using Jupyter Notebook.
