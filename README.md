@@ -56,14 +56,7 @@
 
     Access the app at `http://localhost:5000`.
 
----
 
-## 🧪 Testing the Model
-
-Sample images with labeled diseases are provided in the `test_images` folder. Use these to validate predictions.
-
-
----
 
 ## 📚 Resources
 
